@@ -1,6 +1,11 @@
 ### Welcome to my kingdom ⚡
 
+
 -> Cyber Security Student 🔒
+<p align="center">
+  TryHackMe Profile<br>
+  <a href="https://tryhackme.com/p/hernanicyber"><img src="https://assets.tryhackme.com/img/THMlogo.png" width="200" alt="thm_profile"/></a>
+</p>
 
 -> I'm currently learning pen testing 🔑
 <p align="center">
@@ -10,6 +15,8 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="animated"/>
 </p>
+ 
+ 
 
 
 <!--
