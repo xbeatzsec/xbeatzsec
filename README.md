@@ -3,7 +3,7 @@
 
 -> Cyber Security Student 🔒
 <p align="center">
-  <a href="https://tryhackme.com/p/hernanicyber"><img src="https://i.pinimg.com/originals/97/da/81/97da81bf307c0036b78b48983f738c4f.gif" alt="thm_profile"/></a>
+  <a href="https://tryhackme.com/p/hernanicyber"><img src="https://64.media.tumblr.com/1743e1409f2120d7a9ec16427ad05488/tumblr_pgyh7jrJYK1uk7ohg_540.gif" alt="thm_profile"/></a>
 
 
 <!--
