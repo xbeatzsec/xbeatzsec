@@ -3,20 +3,7 @@
 
 -> Cyber Security Student 🔒
 <p align="center">
-  TryHackMe Profile<br>
-  <a href="https://tryhackme.com/p/hernanicyber"><img src="https://assets.tryhackme.com/img/THMlogo.png" width="200" alt="thm_profile"/></a>
-</p>
-
--> I'm currently learning pen testing 🔑
-<p align="center">
-  <img  src="http://breakthesecurity.cysecurity.org/wp-content/uploads/2010/11/computer-hacker-break-the-security.gif" width="200" alt="animated"/>
-</p>
--> Python is my love
-<p align="center">
-  <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="animated"/>
-</p>
- 
- 
+  <a href="https://tryhackme.com/p/hernanicyber"><img src="https://i.pinimg.com/originals/97/da/81/97da81bf307c0036b78b48983f738c4f.gif" alt="thm_profile"/></a>
 
 
 <!--
