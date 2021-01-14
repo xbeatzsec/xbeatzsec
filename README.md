@@ -1,4 +1,4 @@
-### Welcome to my kingdom ⚡
+### Welcome to my /home ⚡
 
 
 -> Cyber Security Student 🔒
