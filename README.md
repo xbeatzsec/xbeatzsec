@@ -1,4 +1,4 @@
-# Welcome to my /home ⚡
+<h1 align="center">Welcome to my /home ⚡</h1>
 
 
 -> Cyber Security Student 🔒
