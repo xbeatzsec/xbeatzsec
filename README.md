@@ -11,12 +11,12 @@
 ## Stats
 
 <p align="center">
-<a href="hernanibento.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xbeatzsec&show_icons=true&theme=radical&line_height=21"/></p></a>
+<a href="https://hernanibento.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xbeatzsec&show_icons=true&theme=radical&line_height=21"/></p></a>
   
 ## Top Programming languages
 
 <p align="center">
-<a href="hernanibento.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbeatzsec&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /></p></a>
+<a href="https://hernanibento.github.io/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbeatzsec&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /></p></a>
 
 
 <!--
