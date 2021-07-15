@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my /home ⚡</h1>
+<h1 align="center">Welcome to my /profile ⚡</h1>
 
 
 <p align="center">-> Pentester 🔒</p>
